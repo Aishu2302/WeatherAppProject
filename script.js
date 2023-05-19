@@ -1,5 +1,5 @@
 // Set appId
-const appId = '9f23b56e8dcad8299bf4e5a2a3fc932b';
+const appId = '0bb380dd25403ff337c7d6256d54f050';
 
 
 // getDataForCity function that fetches weather info from openweathermap api
